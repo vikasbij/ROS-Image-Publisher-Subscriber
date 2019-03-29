@@ -1,0 +1,2 @@
+rosimageread
+-DCATKIN_DEVEL_PREFIX=/home/vikas/rosImageRead/devel -DCMAKE_INSTALL_PREFIX=/home/vikas/rosImageRead/install -G Unix Makefiles

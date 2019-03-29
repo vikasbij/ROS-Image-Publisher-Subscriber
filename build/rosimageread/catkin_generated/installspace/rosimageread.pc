@@ -1,0 +1,8 @@
+prefix=/home/vikas/rosImageRead/install
+
+Name: rosimageread
+Description: Description of rosimageread
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vikas/rosImageRead/install/lib 
+Requires: 
